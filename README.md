@@ -1,4 +1,4 @@
-//![logo](paste the link)
+![logo](https://github.com/SandipM9903/SandipM9903/blob/main/me.png)
 <h1 align="center">Hi 👋, I'm Sandip Mondal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
